@@ -1,9 +1,8 @@
 package inputprocessingoutput;
 
-import java.time.LocalDate;
-import java.time.temporal.Temporal;
+
 import java.util.Calendar;
-import java.util.Date;
+
 
 public class Exercise6 {
     private static Object Date;
